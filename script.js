@@ -1,8 +1,8 @@
 const projects = [
   {
     title: "Personal Finance Tracker",
-    description: "Track expenses and income with Flask, SQL, and JS.",
-    github: "https://github.com/yourname/finance-tracker",
+    description: "Track income and expenses, visualize trends, and export CSVs using Flask, SQLite, and Chart.js.",
+    github: "https://github.com/jasonk189/Personal-Finance-Tracker.git",
   },
   {
     title: "Smart Device Dashboard",
@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Code Snippet Compiler",
     description: "C++ compiler web UI using Flask and subprocess sandboxing.",
-    github: "https://github.com/yourname/code-compiler",
+    github: "https://github.com/jasonk189/Code-Snippet-Compiler.git",
   },
   {
     title: "Movie Database Explorer",
