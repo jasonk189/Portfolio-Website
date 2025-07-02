@@ -4,7 +4,7 @@ const projects = [
     description: "A comprehensive financial management application that helps users track income and expenses, visualize spending trends with interactive charts, and export financial data as CSV files. Built with a robust Flask backend and modern web technologies.",
     github: "https://github.com/jasonk189/Personal-Finance-Tracker.git",
     icon: "💰",
-    tech: ["Flask", "SQLite", "Chart.js", "Python", "HTML/CSS"]
+    tech: ["Flask", "SQLite", "Chart.js", "Python", "HTML", "CSS"]
   },
   {
     title: "Smart Device Dashboard",
@@ -20,6 +20,28 @@ const projects = [
     icon: "⚡",
     tech: ["C++", "Flask", "Web Security", "Python", "Docker"]
   },
+  {
+    title: "Pong Deep Q Learner",
+    description: "Developed an AI agent that learned to play Pong using a Deep Q Network. Built with Python, PyTorch, and NumPy, utilizing a convolutional neural network that improves through training episodes.",
+    github: "https://github.com/jasonk189/Pong_AI.git",
+    icon: "🎮",
+    tech: ["Python", "PyTorch", "NumPy", "AI"]
+  },
+  {
+    title: "Connect 4 AI Player",
+    description: "An intelligent Connect-4 AI agent built using the minimax algorithm with alpha-beta pruning for optimal move selection. Includes a custom evaluation function to assess board states and significantly reduces computation time through pruning techniques.",
+    github: "https://github.com/jasonk189/Connect4_AI.git",
+    icon: "🧠",
+    tech: ["Python", "AI", "Minimax", "Alpha-Beta Pruning"]
+  },
+  {
+    title: "Mountain Pathfinding AI",
+    description: "Implemented an A* search algorithm in Python to find the most cost-effective path across mountain terrains. Utilized admissible heuristics to ensure optimality, enabling intelligent navigation both uphill and downhill with terrain-aware cost functions.",
+    github: "https://github.com/jasonk189/Cheapest-Path-AI.git",
+    icon: "⛰️",
+    tech: ["Python", "AI", "Dijkstra's Algorithm", "A*", "Pathfinding"]
+  },
+
 ];
 
 // Theme Toggle Functionality
