@@ -4,21 +4,21 @@ const projects = [
     description: "A financial management application that helps users track income and expenses, visualize spending trends with interactive charts, and export financial data as CSV files. Built with a Flask backend and modern web technologies.",
     github: "https://github.com/jasonk189/Personal-Finance-Tracker.git",
     icon: "💰",
-    tech: ["Flask", "SQLite", "Chart.js", "Python", "HTML", "CSS"]
+    tech: ["Flask", "SQLite", "Chart.js", "Python", "HTML", "CSS", "JavaScript"]
   },
   {
     title: "Smart Device Dashboard",
     description: "An IoT simulation platform that provides a centralized interface for controlling virtual smart devices. Features real-time status updates, device management, and a responsive design built with React and Flask REST API.",
     github: "https://github.com/jasonk189/Smart-Device-Dashboard-Simulator.git",
     icon: "🏠",
-    tech: ["React", "Flask", "REST API", "JavaScript", "Python"]
+    tech: ["React", "Flask", "REST API", "TypeScript", "Python", "HTML", "CSS"]
   },
   {
     title: "Code Snippet Compiler",
     description: "A secure web-based C++ compiler with an intuitive interface for writing, compiling, and executing code snippets. Implements sandboxing for safe code execution and provides detailed compilation feedback.",
     github: "https://github.com/jasonk189/Code-Snippet-Compiler.git",
     icon: "⚡",
-    tech: ["C++", "Flask", "Web Security", "Python", "Docker"]
+    tech: ["C++", "Flask", "Python", "Docker", "HTML", "CSS", "JavaScript"]
   },
   {
     title: "Pong Deep Q Learner",
