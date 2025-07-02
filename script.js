@@ -1,14 +1,14 @@
 const projects = [
   {
     title: "Personal Finance Tracker",
-    description: "A comprehensive financial management application that helps users track income and expenses, visualize spending trends with interactive charts, and export financial data as CSV files. Built with a robust Flask backend and modern web technologies.",
+    description: "A financial management application that helps users track income and expenses, visualize spending trends with interactive charts, and export financial data as CSV files. Built with a Flask backend and modern web technologies.",
     github: "https://github.com/jasonk189/Personal-Finance-Tracker.git",
     icon: "💰",
     tech: ["Flask", "SQLite", "Chart.js", "Python", "HTML", "CSS"]
   },
   {
     title: "Smart Device Dashboard",
-    description: "An intuitive IoT simulation platform that provides a centralized interface for controlling virtual smart devices. Features real-time status updates, device management, and a responsive design built with React and Flask REST API.",
+    description: "An IoT simulation platform that provides a centralized interface for controlling virtual smart devices. Features real-time status updates, device management, and a responsive design built with React and Flask REST API.",
     github: "https://github.com/jasonk189/Smart-Device-Dashboard-Simulator.git",
     icon: "🏠",
     tech: ["React", "Flask", "REST API", "JavaScript", "Python"]
@@ -29,7 +29,7 @@ const projects = [
   },
   {
     title: "Connect 4 AI Player",
-    description: "An intelligent Connect-4 AI agent built using the minimax algorithm with alpha-beta pruning for optimal move selection. Includes a custom evaluation function to assess board states and significantly reduces computation time through pruning techniques.",
+    description: "A Connect-4 AI agent built using the minimax algorithm with alpha-beta pruning for optimal move selection. Includes a custom evaluation function to assess board states and significantly reduces computation time through pruning techniques.",
     github: "https://github.com/jasonk189/Connect4_AI.git",
     icon: "🧠",
     tech: ["Python", "AI", "Minimax", "Alpha-Beta Pruning"]
